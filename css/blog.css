@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    width: 800px;
+    height: 40px;
+    background-color: gainsboro;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+    /*position: relative;*/
+    opacity: 0.6;
+    z-index: 999;
+    top: 10px;
+    left: 350px;
+    position: absolute;
+}
+
+header ul{
+    /*text-align: center;*/
+    line-height: 40px;
+}
+header ul li{
+    display: inline;
+    width: 40px;
+    height: 20px;
+    margin-left: 15px;
+}
+header ul li a{
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+#box{
+    width: 1400px;
+    /*background-color: gainsboro;*/
+    margin: auto;
+    /*margin-top: 0;*/
+
+}
+
+#up{
+    width: 1400px;
+    height: 500px;
+    /*background-color: gainsboro;*/
+}
+#up-p{
+    margin-top: 150px;
+}
+
+p{
+    margin: auto;
+    font-size: 17px;
+    line-height: 20px;
+}
+.last-p{
+    /*float: right;*/
+    margin-left: 720px;
+}
+#down {
+    width: 1400px;
+    height: 500px;
+
+}
+#down-p{
+    margin-top: -130px;
+}
+
+.h-p{
+    margin-left: 310px;
+    line-height: 28px;
+}
+
+hr{
+    width: 1200px;
+    /*height: 2px;*/
+    margin-left: -188px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+footer{
+    width: 1400px;
+    height: 200px;
+
+    /*background-color: red;*/
+
+}
+#touch{
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin: auto;
+    margin-top: 90px;
+}
+ul{
+    display: inline;
+    text-align: center;
+}
+#touch>ul li {
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-left: 100px;
+    /*margin-top: 100px;*/
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#box{
+    width: 1400px;
+    /*background-color: gainsboro;*/
+    margin: auto;
+    /*margin-top: 0;*/
+
+}
+header{
+    width: 800px;
+    height: 40px;
+    background-color: gainsboro;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+    /*position: relative;*/
+    opacity: 0.6;
+    z-index: 999;
+    top: 10px;
+    left: 350px;
+    position: absolute;
+}
+
+header ul{
+    /*text-align: center;*/
+    line-height: 40px;
+}
+header ul li{
+    display: inline;
+    width: 40px;
+    height: 20px;
+    margin-left: 15px;
+}
+header ul li a{
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#productions{
+    width: 1400px;
+    /*background-color: gainsboro;*/
+    margin: auto;
+    margin-top: 100px;
+}
+table{
+    /*border: solid 1px;*/
+    width: 1400px;
+    height: 1800px;
+
+}
+tr{
+    width: 1400px;
+    height: 400px;
+    /*background-color: #000099;*/
+}
+
+td{
+    width: 600px;
+    //图片居中显示
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+p{
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+#productions img:hover{
+    transform: scale(1.5);
+    transition: all 0.6s;
+}
+
+
+footer{
+    width: 1400px;
+    height: 200px;
+    margin: auto;
+}
+#touch{
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin: auto;
+    margin-top: 90px;
+}
+ul{
+    display: inline;
+    text-align: center;
+}
+#touch>ul li {
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
